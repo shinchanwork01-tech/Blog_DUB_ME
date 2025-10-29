@@ -1,0 +1,8 @@
+cd broke-finance
+
+npm run dev
+
+npm run generate-posts
+
+python copy_project.py
+

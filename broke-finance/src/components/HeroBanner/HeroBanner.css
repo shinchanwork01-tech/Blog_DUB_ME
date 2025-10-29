@@ -1,0 +1,14 @@
+.hero-container {
+  position: relative;
+  width: 100%;
+  height: 65vh;
+  overflow: hidden;
+}
+
+.hero-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* The old .gradient-icon class has been removed */
